@@ -9,7 +9,4 @@ okay let's dive into the project!!!!
 
 1. UAV Design
 
-![1 atas](https://user-images.githubusercontent.com/50317430/130228836-2e02952e-044d-4464-adef-7a67cc39274e.PNG)
-
-
-
+<img src="https://github.com/ryan354/Unmanned-Aerial-Vehicle-/blob/main/Design/1%20atas.PNG" width="200" height="400" />
