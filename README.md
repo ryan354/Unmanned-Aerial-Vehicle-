@@ -8,5 +8,13 @@ Singapore Amazing Flying Machine Competition (SAFMC) is a Quadcopter or drone co
 okay let's dive into the project!!!!
 
 1. UAV Design
+<p align="center">
+<img src="https://github.com/ryan354/Unmanned-Aerial-Vehicle-/blob/main/Design/1%20atas.PNG" width="400" height="400" />
+</p>
 
-<img src="https://github.com/ryan354/Unmanned-Aerial-Vehicle-/blob/main/Design/1%20atas.PNG" width="200" height="400" />
+p align="center">
+<img src="https://github.com/ryan354/Unmanned-Aerial-Vehicle-/blob/main/Design/1%20bawah.PNG" width="400" height="400" />
+</p>
+
+2. PCB (Printed Circuit Boards) Deisgn 
+
