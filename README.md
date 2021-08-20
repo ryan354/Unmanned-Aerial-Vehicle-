@@ -17,4 +17,7 @@ okay let's dive into the project!!!!
 </p>
 
 2. PCB (Printed Circuit Boards) Deisgn 
+<p align="center">
+<img src="https://github.com/ryan354/Unmanned-Aerial-Vehicle-/blob/main/Design%20PCB/brd.png" width="400" height="400" />
+</p>
 
