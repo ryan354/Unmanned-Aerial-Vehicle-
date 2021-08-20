@@ -28,11 +28,9 @@ okay let's dive into the project!!!!
 </p>
 
 
-Trial Video
+Trial Video.
   
-[![Unmanned-Aerial-Vehicle-](<p align="center">
-<img src="https://img.youtube.com/vi/qGmqiuEHwww/0.jpg" width="400" height="400" />
-</p>)](https://www.youtube.com/watch?v=qGmqiuEHwww)
+[![Unmanned-Aerial-Vehicle-](https://img.youtube.com/vi/qGmqiuEHwww/0.jpg)](https://www.youtube.com/watch?v=qGmqiuEHwww)
 
 
 
