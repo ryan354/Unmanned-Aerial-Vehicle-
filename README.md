@@ -29,9 +29,9 @@ okay let's dive into the project!!!!
 
 Trial Video
 
-<p align="center">
+  
 [![Unmanned-Aerial-Vehicle-](https://img.youtube.com/vi/qGmqiuEHwww/0.jpg)](https://www.youtube.com/watch?v=qGmqiuEHwww)
-</p>
+
 
 
 for more detail about this project you can email me at ryaan354@gmail.com 
