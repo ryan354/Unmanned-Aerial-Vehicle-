@@ -21,3 +21,12 @@ okay let's dive into the project!!!!
 <img src="https://github.com/ryan354/Unmanned-Aerial-Vehicle-/blob/main/Design%20PCB/brd.png" width="400" height="400" />
 </p>
 
+3. System Flowchart
+
+<p align="center">
+<img src="https://github.com/ryan354/Unmanned-Aerial-Vehicle-/blob/main/Flowchart/blok%20diagram%20fix.png.jpg" width="400" height="400" />
+</p>
+
+
+
+
