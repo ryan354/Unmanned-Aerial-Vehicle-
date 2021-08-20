@@ -9,7 +9,7 @@ okay let's dive into the project!!!!
 
 1. UAV Design
 
-![1 atas](https://user-images.githubusercontent.com/50317430/130228836-2e02952e-044d-4464-adef-7a67cc39274e.PNG | width=100)
+![1 atas](https://user-images.githubusercontent.com/50317430/130228836-2e02952e-044d-4464-adef-7a67cc39274e.PNG)
 
 
 
