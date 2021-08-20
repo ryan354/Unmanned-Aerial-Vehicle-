@@ -27,7 +27,7 @@ okay let's dive into the project!!!!
 <img src="https://github.com/ryan354/Unmanned-Aerial-Vehicle-/blob/main/Flowchart/blok%20diagram%20fix.png.jpg" width="400" height="400" />
 </p>
 
-[![Unmanned-Aerial-Vehicle-](https://img.youtube.com/vi/ty5yiIIjeWo/0.jpg)](https://www.youtube.com/watch?v=qGmqiuEHwww)
+[![Unmanned-Aerial-Vehicle-](https://img.youtube.com/vi/qGmqiuEHwww/0.jpg)](https://www.youtube.com/watch?v=qGmqiuEHwww)
 
 
 
