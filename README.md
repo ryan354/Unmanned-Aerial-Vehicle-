@@ -12,7 +12,7 @@ okay let's dive into the project!!!!
 <img src="https://github.com/ryan354/Unmanned-Aerial-Vehicle-/blob/main/Design/1%20atas.PNG" width="400" height="400" />
 </p>
 
-p align="center">
+<p align="center">
 <img src="https://github.com/ryan354/Unmanned-Aerial-Vehicle-/blob/main/Design/1%20bawah.PNG" width="400" height="400" />
 </p>
 
