@@ -32,7 +32,6 @@ Trial Video.
 
 
 
-for more detail about this project you can email me at ryaan354@gmail.com 
 
 
 
